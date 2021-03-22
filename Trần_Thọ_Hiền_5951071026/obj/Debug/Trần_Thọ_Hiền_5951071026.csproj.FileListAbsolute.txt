@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Trần_Thọ_Hiền_5951071026\Trần_Thọ_Hiền_5951071026\obj\Debug\Trần_Thọ_Hiền_5951071026.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Trần_Thọ_Hiền_5951071026\Trần_Thọ_Hiền_5951071026\obj\Debug\Trần_Thọ_Hiền_5951071026.Form1.resources
+C:\Users\ACER\source\repos\Trần_Thọ_Hiền_5951071026\Trần_Thọ_Hiền_5951071026\obj\Debug\Trần_Thọ_Hiền_5951071026.Properties.Resources.resources
+C:\Users\ACER\source\repos\Trần_Thọ_Hiền_5951071026\Trần_Thọ_Hiền_5951071026\obj\Debug\Trần_Thọ_Hiền_5951071026.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Trần_Thọ_Hiền_5951071026\Trần_Thọ_Hiền_5951071026\obj\Debug\Trần_Thọ_Hiền_5951071026.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Trần_Thọ_Hiền_5951071026\Trần_Thọ_Hiền_5951071026\bin\Debug\Trần_Thọ_Hiền_5951071026.exe.config
+C:\Users\ACER\source\repos\Trần_Thọ_Hiền_5951071026\Trần_Thọ_Hiền_5951071026\bin\Debug\Trần_Thọ_Hiền_5951071026.exe
+C:\Users\ACER\source\repos\Trần_Thọ_Hiền_5951071026\Trần_Thọ_Hiền_5951071026\bin\Debug\Trần_Thọ_Hiền_5951071026.pdb
+C:\Users\ACER\source\repos\Trần_Thọ_Hiền_5951071026\Trần_Thọ_Hiền_5951071026\obj\Debug\Trần_Thọ_Hiền_5951071026.exe
+C:\Users\ACER\source\repos\Trần_Thọ_Hiền_5951071026\Trần_Thọ_Hiền_5951071026\obj\Debug\Trần_Thọ_Hiền_5951071026.pdb
